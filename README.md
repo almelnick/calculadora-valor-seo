@@ -5,7 +5,7 @@ sitio web**: visitas, pedidos o leads y el valor mensual en tres escenarios, con
 equivalente de comprar ese mismo resultado en Google Ads.
 
 **Pruébala en vivo:** [alanmelnick.com/herramientas/calculadora-valor-seo](https://www.alanmelnick.com/herramientas/calculadora-valor-seo) ·
-[English version](en/README.md) (carpeta `en/`, en USD)
+[English version](https://github.com/almelnick/seo-value-calculator) (repo aparte, en USD)
 
 ## Qué calcula
 
