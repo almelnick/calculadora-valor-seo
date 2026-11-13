@@ -4,7 +4,8 @@ Herramienta gratuita y open source para proyectar **cuánto vale el canal orgán
 sitio web**: visitas, pedidos o leads y el valor mensual en tres escenarios, con el costo
 equivalente de comprar ese mismo resultado en Google Ads.
 
-**Pruébala en vivo:** [alanmelnick.com/herramientas/calculadora-valor-seo](https://www.alanmelnick.com/herramientas/calculadora-valor-seo)
+**Pruébala en vivo:** [alanmelnick.com/herramientas/calculadora-valor-seo](https://www.alanmelnick.com/herramientas/calculadora-valor-seo) ·
+[English version](https://www.alanmelnick.com/seo-tool-en) (en USD)
 
 ## Qué calcula
 
